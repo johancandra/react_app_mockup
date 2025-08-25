@@ -1,3 +1,6 @@
+Aplikasi React
+Termasuk input update delete dengan data mockup
+
 download semua file dari github ini
 
 Membuat App baru:
