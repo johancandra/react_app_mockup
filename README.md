@@ -1,5 +1,6 @@
-Aplikasi React
-Termasuk input update delete dengan data mockup
+# react_app_mockup
+# Aplikasi React
+# Termasuk input update delete dengan data mockup
 
 download semua file dari github ini
 
